@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bank Test</string>
+    <string name="complete_access">Complete Access</string>
+    <string name="available">Available</string>
+    <string name="balance">Balance</string>
+    <string name="pending">Pending</string>
+    <string name="bsb">BSB</string>
+    <string name="account">Account</string>
+    <string name="refresh_account_details_and_transaction">Refresh Account Details and Transaction</string>
+    <string name="transaction_detail">Transaction Detail</string>
+</resources>
